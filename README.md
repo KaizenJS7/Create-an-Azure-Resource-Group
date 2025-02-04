@@ -21,3 +21,17 @@ Moving on to <b>Tags</b>, I will leave it open, and then click on next.
 <img src="https://i.imgur.com/6iKrnWz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+Validate that everything is correct then click on <b>Create</b>.
+
+<img src="https://i.imgur.com/XJtEXnV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+After creating the Resource group we will see it on the Resource Group page.
+
+<img src="https://i.imgur.com/ckvWOz1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+And if you click on the Resource group (DemoRG), you can see the attributes associated with it.
+
+<img src="https://i.imgur.com/2UyxtPr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
