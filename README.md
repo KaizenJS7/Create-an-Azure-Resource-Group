@@ -5,3 +5,8 @@ home page.
 
   <img src="https://i.imgur.com/P2mmvS1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+After navigating to Resource groups we will click on <b>Create</b>
+
+<img src="https://i.imgur.com/8XKw9Yt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
