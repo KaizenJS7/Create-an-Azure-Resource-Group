@@ -11,10 +11,12 @@ After navigating to Resource groups we will click on <b>Create</b>
 <img src="https://i.imgur.com/8XKw9Yt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-Then you select a <b>subscription</b>. In my case I will go with the "Azure Subscription 1" and I'll provide a <b>Resource group name</b> (DemoRG) and on <b>Region</b> I will leave it as is. Moving on to <b>Tags</b>, I will leave it open, and then click on next.
+Then you select a <b>subscription</b>. In my case I will go with the "Azure Subscription 1" and I'll provide a <b>Resource group name</b> (DemoRG) and on <b>Region</b> I will leave it as is.
 
 <img src="https://i.imgur.com/Tf0V5Xn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+Moving on to <b>Tags</b>, I will leave it open, and then click on next.
 
 <img src="https://i.imgur.com/6iKrnWz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
